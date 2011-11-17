@@ -1,4 +1,4 @@
-<p>This theme is my personal adaptation of the Ravenant Dust, available <a href="http://live.gnome.org/Empathy/Themes/Ravenant_Dust">here</a>. Thus, the majority of the code is not mine, I just adapted it to my taste, with some CSS tweaking.</p>
+<p>This theme is my personal adaptation of the Ravenant Dust one, available <a href="http://live.gnome.org/Empathy/Themes/Ravenant_Dust">here</a>. Thus, the majority of the code is not mine, I just adapted it to my taste, with some CSS tweaking.</p>
 
 <p>I find it less messy, and classier. But that's just me!</p>
 
