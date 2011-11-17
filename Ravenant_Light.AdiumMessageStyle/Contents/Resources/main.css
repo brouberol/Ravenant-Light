@@ -168,15 +168,15 @@ div.status{
 	border-top: 1px solid #6D6861;
 	min-height: 22px;
 	text-shadow: rgba(0,0,0,0.3) 0 -1px 0;
-	background: -webkit-gradient(linear, left top, left bottom, from(#c9c1b5), color-stop(0.8,#cdc2b4));
+	background: -webkit-gradient(linear, left top, left bottom, from(#e0dcd5), color-stop(0.8,#cdc2b4));
 	position:relative;
 	-webkit-transition-duration: 0.5s;
 }
 
 
 .in .time{
-	color:#FFFFFF;
-	text-shadow: 0px 1px 0px #484848;
+	color:#333333;
+	text-shadow: 0px 1px 0px #FFFFFF;
 	font: 0.6em;
 	right: -30px;
 }
