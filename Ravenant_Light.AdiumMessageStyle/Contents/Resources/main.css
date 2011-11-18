@@ -43,13 +43,11 @@ body{
 
 a:link, a:visited {
 	color: #fff;
-	/**font-weight: bold; **/
+	text-shadow: #333 0px 0px 1px;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #fff;
-	/*font-weight: bold;*/
 	text-decoration: none;
 }
 
