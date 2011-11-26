@@ -72,9 +72,14 @@ a:hover {
 	padding:.01em 0px .01em;
 }
 
-.message .text,
+.message .text {
+	margin: 0px 35px 0px 0px;
+	padding:0;
+	border:0;
+}
+
 .status .text{
-	margin:0 35px 0 0px;
+	margin: 0px;
 	padding:0;
 	border:0;
 }
@@ -104,11 +109,10 @@ div.status{
 	margin-top: 6px;
 	margin-left: 12px;
 	margin-right: 12px;
-	padding-top: 4px;
-	padding-bottom: 4px;
+	padding: 4px;
 	z-index:200;
 	border: none;
-	background: url(img/status.png) 0 0 repeat-x;	
+	background-color: #9c3030;
 	color:#fff;
 	font-size:12px;
 	font-family: 'Tahoma';
