@@ -41,14 +41,25 @@ body{
 	
 }
 
-a:link, a:visited {
-	color: #fff;
-	text-shadow: #333 0px 0px 1px;
-	text-decoration: underline;
+a {
+	color: #000;
+	/*text-shadow: #333 0px 0px 1px;*/
+	text-decoration: none;
+	border-bottom: rgba(128,128,128,1) 1px dotted;
+	 transition: 500ms;
+	 -moz-transition: 500ms;
+	 -webkit-transition: 500ms;
+	 -o-transition: 500ms;
+	 
 }
 
 a:hover {
 	text-decoration: none;
+	border-bottom: rgba(128,128,128,0) 1px dotted;
+	transition: 500ms;
+	-moz-transition: 500ms;
+	-webkit-transition: 500ms;
+	-o-transition: 500ms;
 }
 
 /*Misc Stuff*/
